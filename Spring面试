@@ -1,0 +1,5 @@
+1.beanFactory 和 applicationContext 
+  beanFactory,Spring的核心接口，实现bean容器的核心功能
+  applicationContext,扩展了BeanFactory,增加了国际化，事件，资源加载，bean生命周期
+2.AOP 静态代理，动态代理，jdkProxy,CGLib使用aspectj,  aspectj 静态织入，Spring instrument 启动代理类运行期修改类的字节玛
+
